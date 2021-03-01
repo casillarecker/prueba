@@ -6,6 +6,14 @@ body {
     display: grid;
     place-content: center;
 }
+bodyreyprueba {
+    margin: 0;
+    height: 100vh;
+    background: rgb(36,40,49);
+    color: white;
+    display: grid;
+    place-content: center;
+}
 
 header {
     display: flex;
