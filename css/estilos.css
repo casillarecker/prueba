@@ -17,6 +17,7 @@ header {
         
         &:hover {
             background: rgb(30,33,41);
+            background: rgb(30,3,1);
         }
     }
 }
